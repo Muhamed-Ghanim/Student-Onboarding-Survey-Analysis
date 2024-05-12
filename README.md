@@ -12,3 +12,7 @@ Analyze the data and answer key questions posed by the company CEO.
 
 • What are students' desired learning areas? What is the primary or least desired learning area?
 
+
+
+https://public.tableau.com/views/StudentOnboardingSurveyAnalysis/StudentOnboardingSurveyAnalysis4?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+

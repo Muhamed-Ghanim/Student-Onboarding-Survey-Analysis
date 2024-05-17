@@ -17,7 +17,7 @@ Analyze the data and answer key questions posed by the company CEO.
 [Tableau link](https://t.ly/cgv-g)
 
 
-![Uploading GifMaker_20240517202831365.gif…]()
+![GifMaker_20240517202831365](https://github.com/Muhamed-Ghanim/Student-Onboarding-Survey-Analysis/assets/148776263/7ec49422-8645-42d0-8b39-20bd4409ddf5)
 
 
 

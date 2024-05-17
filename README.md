@@ -14,5 +14,10 @@ Analyze the data and answer key questions posed by the company CEO.
 
 
 
-https://public.tableau.com/views/StudentOnboardingSurveyAnalysis/StudentOnboardingSurveyAnalysis4?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+[Tableau link](https://t.ly/cgv-g)
+
+
+![Uploading GifMaker_20240517202831365.gif…]()
+
+
 
